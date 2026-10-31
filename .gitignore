@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+botdata.sqlite
+bot_config.json
+status_message.json
